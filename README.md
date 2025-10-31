@@ -12,7 +12,7 @@ It consists of **three stages**, each representing a significant milestone in th
 | Stage | Model | Type | Key Feature |
 |-------|--------|------|--------------|
 | **1️⃣** | GRU Model | RNN | Sequential text generation |
-| **2️⃣** | GPT-2 + LoRA | Transformer | Fine-tuned creative generation |
+| **2️⃣** | GPT-2 + LoRA | Transformer | Fine-tuned creative generation |  
 | **3️⃣** | RAG Model | Hybrid (Retrieval + Generation) | Grounded, explainable, and ethical AI |
 
 ---
